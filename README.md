@@ -29,7 +29,7 @@ In today's data-driven world, efficiently gathering and processing large dataset
 To get started, clone the repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/milan1310/distributed-scrapy-scraping.git
+git clone https://github.com/DhruviDesai04/Distributed-Scraping.git
 cd distributed-scrapy-scraping
 pip install -r requirements.txt
 ```
